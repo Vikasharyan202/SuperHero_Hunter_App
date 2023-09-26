@@ -1,0 +1,61 @@
+#conatiner
+{
+display: block;
+}
+#details
+{
+position: absolute;
+left:40%;
+
+}
+#details img{
+    width:300px;
+    height: 400px;
+    box-sizing: 2px solid white;
+}
+body{
+   
+    background-color: #152238;
+    color: white;
+}
+h1{
+    font-size:50px;
+    text-align: left;
+}
+h2{
+    font-size: 20px;
+}
+#more-details
+{
+    position: relative;
+    left:-10%;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#return-pages
+{
+    float: left;
+    widows: 70px;
+    height:40px;
+    background-color: white;
+   
+}
+#return-pages a{
+    color:#152238;
+    font-size:20px;
+    text-decoration: none;
+    padding:5px;
+    
+}
+#favourites
+{
+    float: right;
+    color: white;
+    position: relative;
+    top:20%;
+}
+#head
+{
+    text-align: center;
+    color: white;
+}
