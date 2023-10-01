@@ -23,4 +23,4 @@ https://superherojungle.netlify.app/
 ![List](https://github.com/Vikasharyan202/SuperHero_Hunter_App/assets/117556610/f498b471-3640-4d8d-955e-dee3866f7c67)
 
 3. FAVOURITES
-![Favourite](https://github.com/Vikasharyan202/SuperHero_Hunter_App/assets/117556610/41cff6f1-b38d-43cd-8ecc-0b7db1cdccc3)
+![Favourite](https://github.com/Vikasharyan202/SuperHero_Hunter_App/assets/117556610/c958d9c1-ba66-4751-baca-da5bef1cc83d)
